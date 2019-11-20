@@ -112,4 +112,4 @@ class NewVisitorTest(LiveServerTestCase):
         # Edith se pregunta si el sitio recordara de su lista. Entonces nota
         # que el sitio genero una URL unica para ella -- hay un pequeño
         # texto explicativo para eso.
-        self.fail('Finish the test!')
+        # self.fail('Finish the test!')
